@@ -1,0 +1,54 @@
+body{
+    background-color: #fff;
+    color: rgb(8, 90, 117);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+img {
+    height: 600px;
+    width: 1352px;
+}
+.showcase{
+    position: relative;   
+}
+
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+p{
+    font-size: 35px;
+}
+.top-right{
+    position:absolute;
+    top: 8px;
+    right:16px;
+    color: white;   
+}
+
+.top-right a{
+    margin-right: 10px;
+    color:white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.top-right a:hover{
+    background-color: #AEE6F6;
+    border-radius: 5px;
+    padding: 7px;
+    opacity: 0.7;
+}
+
+.career span{
+    font-size: 25px;
+}
